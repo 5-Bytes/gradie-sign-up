@@ -1,4 +1,4 @@
-#Gradie Sign Up
+# Gradie Sign Up
 
-##Installation
+## Installation
 Open Index.html
